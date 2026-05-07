@@ -72,3 +72,5 @@ Testing/
 .cph/
 
 *.bat
+input.txt
+output.txt
