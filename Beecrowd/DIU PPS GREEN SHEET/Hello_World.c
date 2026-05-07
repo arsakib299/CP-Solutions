@@ -1,4 +1,4 @@
-// problem link:https://judge.beecrowd.com/en/problems/view/1000
+// problem link:https://judge.beecrowd.com/en/runs/code/48883811
 // Author: arsakib299
 
 #include <stdio.h>
