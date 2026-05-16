@@ -7,7 +7,7 @@ int main()
 {
     int n;
     scanf("%d",&n);
-    char a[n];
+    char a[n+1];
     scanf("%s",&a);
     int left=0;
     int right=1;
@@ -22,10 +22,5 @@ int main()
         right++;
     }
     printf("%d",count);
-
-
-
-    
-
     return 0;
 }
